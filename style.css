@@ -7,8 +7,13 @@
 }
 
 body {
+<<<<<<< HEAD
  
  background-color: white;
+=======
+  /* background-color: #f7f9fc; */
+  background-color: white;
+>>>>>>> 0b794b77270210d7e1103f0f9ba3849c31455f67
   color: #333;
   transition: background-color 0.4s, color 0.4s;
 }
@@ -16,7 +21,11 @@ body {
 
 body.dark {
   background-color: #121212;
+<<<<<<< HEAD
   color: grey;
+=======
+  color: #f9f9f9;
+>>>>>>> 0b794b77270210d7e1103f0f9ba3849c31455f67
 }
 
 header {
